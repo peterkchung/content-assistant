@@ -6,7 +6,7 @@ TODOs:
 """
 
 import gradio as gr
-
+import interface.utils
 
 with gr.Blocks() as chatUI:
     # gr.State()

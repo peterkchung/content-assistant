@@ -1,7 +1,6 @@
 import os
 from huggingface_hub import InferenceClient
 import gradio as gr
-import models.manager
 
 """
 Chat engine.
